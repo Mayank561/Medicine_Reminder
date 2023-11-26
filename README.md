@@ -101,8 +101,3 @@ TWILIO_MESSAGING_SERVICE_SID=
 
 - &#9745; Add the ability for hospital staff to attribute up to a dozen different medicines to a patient.
 
-# Future Features and Implementations
-
-- &#9744;  Add Authentication And Authorization 
-- &#9744;  Host The WebApp
-- &#9744;  Implement ChatBot
