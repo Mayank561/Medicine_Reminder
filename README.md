@@ -81,9 +81,7 @@ APP_SECRET=
 TWILIO_MESSAGING_SERVICE_SID=
 ```
 
-# Video Link
 
-[You Tube Link For Demo Of The App](https://youtu.be/IOPRMIary1s)
 
 # Features Fulfilled
 
